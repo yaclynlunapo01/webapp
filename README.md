@@ -4,3 +4,5 @@
 пользователь: tickets_bd
 пароль: 1234
 Настройки можно поменять в core/Connection.php
+
+Файл для создании бд tickets_system_db.sql
